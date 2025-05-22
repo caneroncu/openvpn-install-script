@@ -1,8 +1,9 @@
 # openvpn-install-script
 
-OpenVPN instal script for **Debian, Ubuntu, Fedora, CentOS, Arch Linux, Oracle Linux, Rocky Linux and AlmaLinux.**
+OpenVPN install script for **Debian, Ubuntu, Fedora, CentOS, Arch Linux, Oracle Linux, Rocky Linux and AlmaLinux.**
 
-This script will install OpenVPN to your own secure VPN server in just a few seconds. **(2 different person can use OpenVPN **simultaneously** for free)**
+This script will install OpenVPN to your own secure VPN server in just a few seconds. 
+**(2 different person can use OpenVPN **simultaneously** for free)**
 
 ## Usage
 
