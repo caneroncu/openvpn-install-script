@@ -28,8 +28,8 @@ chmod +x openvpn-install.sh
 ```
 6. Follow the instructions to install the server. (You can select the default choices, no worries) It will ask you a **Client Name:** at some point. The client name you provide will determine the name of the **.ovpn** file. For example if you type in **MyVPN** the resulting file will be **MyVPN.ovpn**. You will use that file to connect to your VPN in your PC/Mac/iPhone/Android.
 
-7. Using a SFTP client (like https://winscp.net/) log in to your VPS with your IP address, username and password and then download your **.ovpn** file to your computer.
-8. Download **OpenVPN Connect** (https://openvpn.net/client/) to your PC/Mac/iPhone/Android
+7. After the automatic installation is completed, use a SFTP client (like https://winscp.net/) to log in to your VPS with your IP address, username and password and then download your **.ovpn** file to your computer.
+8. Download **OpenVPN Connect** (https://openvpn.net/client/) to your PC/Mac/iPhone/Android (on the cient you want to connect to your VPN)
 9. Load your **.ovpn** file in **OpenVPN Connect** application.
 10. That's it! You're connected to the internet using your own VPN inside your VPS
 
