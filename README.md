@@ -33,3 +33,4 @@ chmod +x openvpn-install.sh
 9. Load your **.ovpn** file in **OpenVPN Connect** application.
 10. That's it! You're connected to the internet using your own VPN inside your VPS
 
+Video guide: https://youtu.be/CboBqogUdwI?t=87 (Instructions are in Turkish but you can open auto generated subtitles for English or just follow the video muted)
