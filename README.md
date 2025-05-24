@@ -10,7 +10,7 @@ This script will install OpenVPN to your own secure VPN server in just a few sec
 First, get a cheap VPS from Hostinger
 
  1. First, visit this link to get %20 discount (in order to get the discount you need to visit this link before making a purchase):
-    <a href="[https://www.hostinger.com](https://www.hostinger.com/referral?REFERRALCODE=YPVCANEROEJW)" target="_blank">https://yolla.link/hosting</a>
+    <a href="https://www.hostinger.com/referral?REFERRALCODE=YPVCANEROEJW" target="_blank">https://www.hostinger.com/referral?REFERRALCODE=YPVCANEROEJW</a>
     
 2. In the visited link page, Click on **Services** (the top menu) -> **VPS Hosting** then click on **"Choose Plan"** button and select **KVM 1** plan and complete the purchase.
 3. Go to your **Browser Terminal** in your VPS admin page.
